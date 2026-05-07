@@ -1,4 +1,4 @@
-# AnvilCores
+# AnvilSeries
 
 A collection of FPGA optimized Anvil Series RISC-V CPU cores written in SystemVerilog.
 
